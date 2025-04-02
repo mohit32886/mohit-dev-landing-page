@@ -53,18 +53,18 @@ const Contact = () => {
                 className="flex items-center hover:text-indigo-600 transition-colors"
               >
                 <Mail className="h-5 w-5 text-indigo-600 mr-3" />
-                <span className="text-gray-600">your.email@example.com</span>
+                <span className="text-gray-600">mohit32886@gmail.com</span>
               </a>
               <a 
                 href="tel:+15551234567" 
                 className="flex items-center hover:text-indigo-600 transition-colors"
               >
                 <Phone className="h-5 w-5 text-indigo-600 mr-3" />
-                <span className="text-gray-600">+1 (555) 123-4567</span>
+                <span className="text-gray-600">+91 8210950380</span>
               </a>
               <div className="flex items-center">
                 <MapPin className="h-5 w-5 text-indigo-600 mr-3" />
-                <span className="text-gray-600">San Francisco, CA</span>
+                <span className="text-gray-600">Hyderabad, India</span>
               </div>
             </div>
           </div>

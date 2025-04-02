@@ -29,7 +29,7 @@ const Header = () => {
         <div className="flex items-center justify-between">
           <div className="flex items-center cursor-pointer" onClick={() => scrollToSection('home')}>
             <Code2 className="h-8 w-8 text-indigo-600" />
-            <span className="ml-2 text-xl font-bold text-gray-800">John Dev</span>
+            <span className="ml-2 text-xl font-bold text-gray-800">Mohit Dev</span>
           </div>
           
           {/* Desktop Navigation */}

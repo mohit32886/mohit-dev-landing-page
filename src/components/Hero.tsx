@@ -47,7 +47,7 @@ const Hero = () => {
             </p>
             <div className="flex items-center space-x-6 mb-8">
               <a 
-                href="https://github.com/yourusername" 
+                href="https://github.com/mohit32886/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-600 hover:text-indigo-600 transition-colors"
@@ -55,7 +55,7 @@ const Hero = () => {
                 <Github className="h-6 w-6" />
               </a>
               <a 
-                href="https://linkedin.com/in/yourusername" 
+                href="https://www.linkedin.com/in/mohit32886/" 
                 target="_blank" 
                 rel="noopener noreferrer" 
                 className="text-gray-600 hover:text-indigo-600 transition-colors"
@@ -63,7 +63,7 @@ const Hero = () => {
                 <Linkedin className="h-6 w-6" />
               </a>
               <a 
-                href="mailto:your.email@example.com" 
+                href="mailto:mohit32886@gmail.com" 
                 className="text-gray-600 hover:text-indigo-600 transition-colors"
               >
                 <Mail className="h-6 w-6" />
